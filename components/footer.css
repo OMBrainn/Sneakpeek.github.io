@@ -181,7 +181,7 @@
 .footerroot-class-name {
   left: 0px;
   bottom: 0px;
-  position: absolute;
+  position: relative;
 }
  
 
